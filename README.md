@@ -7,8 +7,8 @@
 />
 
 <p>
-  <a href="https://komarev.com/ghpvc/?username=InfinityZero3000&style=for-the-badge&color=2563eb">
-    <img src="https://komarev.com/ghpvc/?username=InfinityZero3000&style=for-the-badge&color=2563eb" alt="Profile views" />
+  <a href="https://github.com/ncdanh0311">
+    <img src="https://komarev.com/ghpvc/?username=ncdanh0311&style=for-the-badge&color=2563eb" alt="Profile views" />
   </a>
   <a href="https://www.linkedin.com/in/ncdanh03/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -60,7 +60,8 @@ I'm open to:
 - Open-source collaboration
 - Teams building useful products where I can learn while contributing
 
-src="https://capsule-render.vercel.app/api?type=waving§ion=footer&height=160&color=0:0f172a,50:1d4ed8,100:38bdf8"
-width="100%"
-alt="footer"
-/](img%0Asrc=%22https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:0f172a,50:1d4ed8,100:38bdf8%22%0Awidth=%22100%25%22%0Aalt=%22footer%22%0A/)
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:0f172a,50:1d4ed8,100:38bdf8"
+  width="100%"
+  alt="footer"
+/>
