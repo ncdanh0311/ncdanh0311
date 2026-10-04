@@ -1,10 +1,10 @@
 <div align="center">
 
-[img
-src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1d4ed8,100:38bdf8&text=Ngo%20Cong%20Danh&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Backend%20%7C%20Web%20Systems%20%7C%20Practical%20AI&descAlignY=56&animation=fadeIn"
-width="100%"
-alt="header"
-/](img%0Asrc=%22https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1d4ed8,100:38bdf8&text=Ngo%20Cong%20Danh&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Backend%20%7C%20Web%20Systems%20%7C%20Practical%20AI&descAlignY=56&animation=fadeIn%22%0Awidth=%22100%25%22%0Aalt=%22header%22%0A/)
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1d4ed8,100:38bdf8&text=Ngo%20Cong%20Danh&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Backend%20%7C%20Web%20Systems%20%7C%20Practical%20AI&descAlignY=56&animation=fadeIn"
+  width="100%"
+  alt="header"
+/>
 
 <p>
   <a href="https://komarev.com/ghpvc/?username=InfinityZero3000&style=for-the-badge&color=2563eb">
